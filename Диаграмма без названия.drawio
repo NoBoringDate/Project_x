@@ -52,7 +52,7 @@
         <mxCell id="60da8b9f42644d3a-25" value="Паспорт проекта" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="637" y="412.5" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-26" value="Готовая паспорт проекта который содержит в себе:&lt;br&gt;1. Технологический стек&lt;br&gt;2. Этапы разработки&lt;br&gt;3. Требования к качеству&lt;br&gt;4. Декомпозиция задач&lt;br&gt;5. Протокол приемки результата работы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-26" value="Готовый паспорт проекта который содержит в себе:&lt;br&gt;1. Технологический стек&lt;br&gt;2. Этапы разработки&lt;br&gt;3. Требования к качеству&lt;br&gt;4. Декомпозицию задач&lt;br&gt;5. Протокол приемки результата работы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="637" y="712.5" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-27" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="WPbCOronnnOVPw37KsL0-2" value="Дорожная карта разработки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1197" y="412.5" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPbCOronnnOVPw37KsL0-3" value="Дорожная карта содержит:&amp;nbsp;&lt;br&gt;1. Разбивка функциональных блоков по направлениям&lt;div&gt;2. Вехи для синхронизации порядка разработки функции в разных направлениях&lt;br&gt;3. Распределенные ресурсы по этапам реализации&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WPbCOronnnOVPw37KsL0-3" value="Дорожная карта содержит:&amp;nbsp;&lt;br&gt;1. Разбивка функциональных блоков по направлениям&lt;div&gt;2. Вехи для синхронизации порядка разработки функций в разных направлениях&lt;br&gt;3. Распределенные ресурсы по этапам реализации&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1197" y="712.5" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WPbCOronnnOVPw37KsL0-4" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -115,7 +115,7 @@
         <mxCell id="WPbCOronnnOVPw37KsL0-9" value="План разработки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1477" y="412.5" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPbCOronnnOVPw37KsL0-10" value="Распределены декомпозированные задачи по исполнителем с учетом сроков выполнения.&amp;nbsp;&lt;br&gt;Сформирован беклог для разработки." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WPbCOronnnOVPw37KsL0-10" value="Распределены декомпозированные задачи по исполнителям с учетом сроков выполнения.&amp;nbsp;&lt;br&gt;Сформирован беклог для разработки." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1477" y="712.5" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WPbCOronnnOVPw37KsL0-11" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
